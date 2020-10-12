@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">amodule</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="second_screen_text">second screen text</string>
+    <string name="hah_string">hah string</string>
+</resources>

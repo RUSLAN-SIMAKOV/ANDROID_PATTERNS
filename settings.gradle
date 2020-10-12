@@ -1,0 +1,6 @@
+include ':simplecalculator'
+include ':dynamiclayout'
+include ':amodule'
+include ':bmodule'
+include ':app'
+rootProject.name = "magicpocket"
